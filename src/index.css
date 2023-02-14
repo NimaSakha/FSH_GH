@@ -14,3 +14,67 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.mouse {
+  width: 22px;
+  height: 45px;
+  border: 3px solid #fff;
+  border-radius: 60px;
+  position: relative;
+}
+.mouse::before {
+  content: "";
+  width: 11px;
+  height: 11px;
+  position: absolute;
+  top: 27px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #fff;
+  border-radius: 50%;
+  opacity: 1;
+  animation: wheel 2s infinite;
+  -webkit-animation: wheel 2s infinite;
+}
+@keyframes wheel {
+  to {
+    opacity: 0;
+    top: 2px;
+  }
+}
+@-webkit-keyframes wheel {
+  to {
+    opacity: 0;
+    top: 2px;
+  }
+}
+.gradients {
+  background: rgb(245, 181, 69);
+  background: linear-gradient(rgb(231 132 67) 0%, rgb(209 85 46) 30%);
+}
+.gradients2 {
+  background: rgb(209 85 46);
+  background: linear-gradient(
+    rgb(209 85 46) 0%,
+    rgb(209 85 46) 10%,
+    rgb(180 64 37) 60%,
+    rgb(132 16 32) 100%
+  );
+}
+.btm {
+  bottom: -70px;
+}
+.wdth {
+  width: 20%;
+}
