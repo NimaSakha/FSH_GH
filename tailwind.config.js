@@ -4,6 +4,7 @@ module.exports = {
   theme: {
     screens: {
       sm: "500px",
+      msm: "570px",
       lsm: "650px",
       llsm: "720px",
       md: "768px",
@@ -11,9 +12,10 @@ module.exports = {
       xl: "1440px",
     },
     colors: {
-      blue: "#005CEE",
-      purple: "#6200FF",
       white: "#fff",
+      orange: "#A43D20",
+      red: "#74151F",
+      back: "#ea8648",
     },
     fontFamily: {
       poppins: ["Poppins", "sans-serif"],
