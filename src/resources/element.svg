@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="584" height="584" viewBox="0 0 584 584">
+  <g id="Group_3" data-name="Group 3" transform="translate(-1259 -221)">
+    <g id="hero-image" transform="translate(342 25)">
+      <path id="Path_6" data-name="Path 6" d="M35,0h76a35,35,0,0,1,35,35v76a35,35,0,0,1-35,35H35A35,35,0,0,1,0,111V35A35,35,0,0,1,35,0Z" transform="translate(1209 196)" fill="#c14a24"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" width="146" height="146" rx="35" transform="translate(1209 488)" fill="#bf4a24"/>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="146" height="146" rx="35" transform="translate(1063 342)" fill="#fff"/>
+      <rect id="Rectangle_10" data-name="Rectangle 10" width="146" height="146" rx="35" transform="translate(1063 634)" fill="#fff"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" width="146" height="146" rx="35" transform="translate(917 488)" fill="#fff" opacity="0.231"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="146" height="146" rx="35" transform="translate(1355 342)" fill="#bf4a24" opacity="0.359"/>
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="73" cy="73" r="73" transform="translate(1209 342)" fill="#74151f"/>
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="73" cy="73" r="73" transform="translate(1063 488)" fill="#f3b043"/>
+    </g>
+    <rect id="Rectangle_27" data-name="Rectangle 27" width="1" height="96" transform="translate(1550 683)" fill="#b84922"/>
+    <rect id="Rectangle_28" data-name="Rectangle 28" width="1" height="96" transform="translate(1550 391)" fill="#c24c25"/>
+  </g>
+</svg>
